@@ -10,7 +10,3 @@ i **will** try *all* the given markdown
 - thanks
 - for
 - reading
-''' python
-print ("hello world!")
-'''
----
